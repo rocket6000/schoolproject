@@ -2,7 +2,7 @@ from tkinter import *
 import parser
 rootcontain = Tk()
 # This is the "ScreenGui" of python
-rootcontain.title("Scientific Calculator (Python)")
+rootcontain.title("Scientific Calculator (Python) - rocket")
 # Makes title of container
 rootcontain.geometry("355x355")
 mainframe = Frame(rootcontain, width=355, height=355)
