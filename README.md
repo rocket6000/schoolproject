@@ -1,5 +1,3 @@
-# ScientificCalculatorPython2
+# School Project Python
 
-Hello!
-
-This is my first completed python project.
+Simple GUI that can do math.
